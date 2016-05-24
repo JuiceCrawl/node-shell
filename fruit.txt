@@ -1,0 +1,9 @@
+pear
+grape
+apple
+cucumber
+cucumber
+apple
+apple
+apple
+rasperry
